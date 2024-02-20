@@ -7,7 +7,7 @@ Welcome to the Decoder Ring, a user-friendly web interface for encoding and deco
 ![Encryption/Decryption Application Interface](/images/web-interface.png)
 The intuitive web interface allows for straightforward interaction with the application, providing a seamless user experience. Whether you’re encoding secret plans or decoding mysterious messages, the application is designed for ease of use.
 
-## Research/User Case
+## User Case
 In a digital landscape where data privacy is paramount, this application provides a robust solution for users needing to encrypt sensitive information. Ideal for personal, professional, or educational use, it ensures that your messages remain confidential.
 
 ## Usage
