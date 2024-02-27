@@ -23,7 +23,7 @@ In a digital landscape where data privacy is paramount, this application provide
 - **Real-time Encoding and Decoding**: Instantly see the results of your encrypted or decrypted messages.
 
 ## Technologies and Tools
-- **JavaScript ES6**: Provides the functionality for our encryption algorithms and web interaction.
+- **JavaScript ES6**: Provides the functionality for the encryption algorithms and web interaction.
 - **HTML5**: Structures the web interface, ensuring a responsive and accessible user experience.
 - **Node.js**: Powers the backend, handling HTTP requests and serving the web interface.
 
