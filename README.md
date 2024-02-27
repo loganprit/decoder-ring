@@ -11,7 +11,7 @@ The intuitive web interface allows for straightforward interaction with the appl
 In a digital landscape where data privacy is paramount, this application provides a robust solution for users needing to encrypt sensitive information. Ideal for personal, professional, or educational use, it ensures that your messages remain confidential.
 
 ## Usage
-1. Visit the [live application](https://loganprit.github.io/decoder-ring-capstone/) or clone the repository for local use.
+1. Visit the [live application](https://loganprit.github.io/decoder-ring/) or clone the repository for local use.
 2. If running locally, initiate the app with `node app.js` and open your browser to the indicated port.
 3. Choose the desired encryption algorithm from the available options: Caesar Shift, Polybius Square, or Substitution Cipher.
 4. Enter your message, select 'Encode' or 'Decode', and watch as the application processes your input.
